@@ -1,0 +1,6 @@
+{
+  "name": "Tech Product Comparison Loading Carousel",
+  "description": "A premium 2.5D loading animation concept featuring an elliptical carousel with sleek floating pedestals and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
